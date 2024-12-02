@@ -1,0 +1,188 @@
+h1 {
+    color: #000;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;  
+}
+
+#sky {
+    width: 568px;
+    height: 446px;
+}
+
+#night {
+    color: #000;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width:568px;
+    height: 48px;
+}
+
+#look {
+    color: #414651;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 568px;
+    
+}
+
+#yourself {
+    color: #155EEF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 500px;
+}
+#experience {
+    color: #155EEF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 500px;
+}
+
+#natural {
+    color: #155EEF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 500px;
+}
+
+
+#read {
+    color: #CEA201;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    border: 2px solid #CEA201;
+    padding-left: 32px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 32px;
+    width: 100px;
+}
+
+#magic {
+    color: #000;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width:722px;
+}
+
+#animals {
+    color: #414651;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 722px;
+}
+
+#works {
+    color: #00C76E;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 722px;
+    height: 24px;
+}
+
+#molecule {
+    color: #FF5DA3;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    margin-left: 150px;
+}
+
+#called {
+    color: #FF5DA3;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    margin-left: 150px;
+}
+
+#glow {
+    color: #FF5DA3;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    margin-left: 150px;
+}
+
+#image {
+    width: 200px;
+    height: 200px;
+}
+
+h3 {
+    color: #414651;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 24px;
+}
+
+#fireflies {
+    color: #C27512;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+#fish {
+    color: #C27512;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+#plants {
+    color: #C27512;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+#where {
+    border: 6px solid #C11574;
+    background: #FFDEF0;
+    padding: 16px;
+    width: 700px;
+}
+
+#horse {
+    width: 298.012px;
+    height: 396px;
+    background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+}
+
+#link {
+    color: #00D4BC;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 133.333% */
+    text-align: center;
+}
